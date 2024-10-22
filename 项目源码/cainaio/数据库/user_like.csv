@@ -1,0 +1,11 @@
+user,like,id
+1,【学习JavaScript】JavaScript是Web的编程语言,1
+1,【学习AngularJS】AngularJS通过新的属性和表达式扩展了HTML,2
+1,【学习AngularJS2】AngularJS2是一款开源JavaScript库，由Google维护。,3
+1,【学习DTD】DTD（文档类型定义）的作用是定义XML文档的合法构建模块,4
+1,【学习XMLDOM】XMLDOM定义访问和操作XML文档的标准方法,5
+1,【学习XSLT】XSL是一个XML文档的样式表语言，XSLT指XSL转换,6
+1,【学习XPath】XPath是一门在XML文档中查找信息的语言,7
+1,【学习MVC】MVC（ModelViewController模型-视图-控制器）,8
+1,【学习Razor】Razor是一种标记语法，可以让您将基于服务器的代码（VisualBasic和C#）嵌入到网页中,9
+1,【学习Git】Git是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目,10

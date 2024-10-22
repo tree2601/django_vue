@@ -1,0 +1,2 @@
+id,password,last_login,is_superuser,username,first_name,last_name,email,is_staff,is_active,date_joined
+1,pbkdf2_sha256$600000$LoJKBEAb35jRIoyrXPoBe4$uK1IwkeJabaLlbhno1JJFjACtwdYanXSspuNlMJ+zfU=,2023-12-08 07:31:02.725446,1,1,"","",1@1.com,1,1,2023-12-08 07:30:32.913175

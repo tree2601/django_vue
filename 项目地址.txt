@@ -1,0 +1,5 @@
+后台路径地址：localhost:8080/项目名称/admin/dist/index.html
+前台路径地址：localhost:8080/项目名称/front/dist/index.html （无前台不需要输入）
+或前台路径地址：localhost:8080/项目名称/front/index.html （无前台不需要输入）
+
+             

@@ -1,0 +1,19 @@
+id,app,name,applied
+1,contenttypes,0001_initial,2023-12-08 07:30:06.885230
+2,auth,0001_initial,2023-12-08 07:30:07.250680
+3,admin,0001_initial,2023-12-08 07:30:07.346649
+4,admin,0002_logentry_remove_auto_add,2023-12-08 07:30:07.364663
+5,admin,0003_logentry_add_action_flag_choices,2023-12-08 07:30:07.377639
+6,contenttypes,0002_remove_content_type_name,2023-12-08 07:30:07.458594
+7,auth,0002_alter_permission_name_max_length,2023-12-08 07:30:07.510563
+8,auth,0003_alter_user_email_max_length,2023-12-08 07:30:07.542546
+9,auth,0004_alter_user_username_opts,2023-12-08 07:30:07.552539
+10,auth,0005_alter_user_last_login_null,2023-12-08 07:30:07.630300
+11,auth,0006_require_contenttypes_0002,2023-12-08 07:30:07.636093
+12,auth,0007_alter_validators_add_error_messages,2023-12-08 07:30:07.656739
+13,auth,0008_alter_user_username_max_length,2023-12-08 07:30:07.730919
+14,auth,0009_alter_user_last_name_max_length,2023-12-08 07:30:07.798885
+15,auth,0010_alter_group_name_max_length,2023-12-08 07:30:07.826929
+16,auth,0011_update_proxy_permissions,2023-12-08 07:30:07.836941
+17,auth,0012_alter_user_first_name_max_length,2023-12-08 07:30:07.891876
+18,sessions,0001_initial,2023-12-08 07:30:07.932868
